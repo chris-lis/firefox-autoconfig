@@ -1,3 +1,4 @@
+// This line needs to be left blank, or an extremely unhelpful error will appear
 try {
     let { classes: Cc, interfaces: Ci, manager: Cm } = Components;
     const Services = globalThis.Services;
