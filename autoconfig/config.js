@@ -1,4 +1,5 @@
-// This line needs to be left blank, or an extremely unhelpful error will appear
+// First line needs to be left blank, otherwise an extremely unhelpful error will appear
+// Code adapted from: https://superuser.com/a/1747680
 try {
     let { classes: Cc, interfaces: Ci, manager: Cm } = Components;
     const Services = globalThis.Services;
